@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388817867706",
+    "firebase_url": "https://edacbasicapp.firebaseio.com",
+    "project_id": "edacbasicapp",
+    "storage_bucket": "edacbasicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388817867706:android:a7e38112155011b4130383",
+        "android_client_info": {
+          "package_name": "com.example.edacbasicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388817867706-esciab173vqrrutgemhbm5vqhs8j59sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edacbasicapp",
+            "certificate_hash": "88b8ebaab79dcfdc5ff3e18fb6f1322eec72c9fe"
+          }
+        },
+        {
+          "client_id": "388817867706-hi1tkbhhll0e8nst3s55jqj89hd4uvfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqp5UufiKV52tdHMxqT5MxeScBYy7Rko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388817867706-hi1tkbhhll0e8nst3s55jqj89hd4uvfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
